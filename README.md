@@ -8,7 +8,7 @@
 
 1. Coleta dos dados (via Kaggle e Github);
    * Possíveis datasets:
-       [Medium](https://raw.githubusercontent.com/viniciusfjacinto/medium/main/futpred_medium.), [Semestre passado](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol), [Kaggle](https://www.kaggle.com/datasets/andreifnmg/campeonato-braileiro-20092018?select=Legenda_Tabela_Clubes), [Kaggle principal](https://www.kaggle.com/datasets/josevitormichelin/brazilian-football-championship-brasileiro)
+       [Medium](https://raw.githubusercontent.com/viniciusfjacinto/medium/main/futpred_medium.csv), [Semestre passado](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol), [Kaggle](https://www.kaggle.com/datasets/andreifnmg/campeonato-braileiro-20092018?select=Legenda_Tabela_Clubes), [Kaggle principal](https://www.kaggle.com/datasets/josevitormichelin/brazilian-football-championship-brasileiro)
 3. Pré-Processamento (limpeza dos dados, imputação de informações faltantes, criação de novas variáveis, padronização);
 4. Seleção das variáveis mais importantes (fazer teste de correlação);
 5. Divisão da base de dados em treino e teste;
